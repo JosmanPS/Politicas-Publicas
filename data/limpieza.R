@@ -31,10 +31,16 @@ censo <- inner_join(censo, hogares, by='MANZANA')
 censo <- inner_join(censo, viviendas, by='MANZANA')
 censo <- inner_join(censo, economia, by='MANZANA')
 
+# Agregamos la descripción de las variables
+variables <- read.csv('variables.csv')
+
 # Eliminaremos de memoria los datos individuales
 rm('poblacion', 'educacion', 'salud', 'hogares',
    'viviendas', 'economia')
 
 # Leemos también los datos de negocios locales
 DENUE <- read.csv('DENUE.csv')
+
+# Exportamos los datos
+save.image('datos.RData')
 

@@ -1,0 +1,242 @@
+CAMPO,DESCRIP
+POB1,Poblacion total
+POB2,Poblacion de 0 a 2 años
+POB3,Poblacion de 0 a 4 años
+POB4,Poblacion de 3 a 5 años
+POB5,Poblacion de 6 a 11 años
+POB6,Poblacion de 8 a 14 años
+POB7,Poblacion de 12 a 14 años
+POB8,Poblacion de 0 a 14 años
+POB9,Poblacion de 15 a 17 años
+POB10,Poblacion de 15 a 24 años
+POB11,Poblacion de 15 a 29 años
+POB12,Poblacion de 15 a 64 años
+POB13,Poblacion de 18 a 24 años
+POB14,Poblacion de 30 a 49 años
+POB15,Poblacion de 50 a 59 años
+POB16,Poblacion de 60 a 64 años
+POB17,Poblacion de 3 años y mas
+POB18,Poblacion de 5 años y mas
+POB19,Poblacion de 12 años y mas
+POB20,Poblacion de 15 años y mas
+POB21,Poblacion de 18 años y mas
+POB22,Poblacion de 25 años y mas
+POB23,Poblacion de 60 años y mas
+POB24,Poblacion de 65 años y mas
+POB25,Poblacion de 70 años y mas
+POB31,Poblacion femenina
+POB32,Poblacion femenina de 0 a 2 años
+POB33,Poblacion femenina de 0 a 4 años
+POB34,Poblacion femenina de 3 a 5 años
+POB35,Poblacion femenina de 6 a 11 años
+POB36,Poblacion femenina de 8 a 14 años
+POB37,Poblacion femenina de 12 a 14 años
+POB38,Poblacion femenina de 0 a 14 años
+POB39,Poblacion femenina de 15 a 17 años
+POB40,Poblacion femenina de 15 a 24 años
+POB41,Poblacion femenina de 15 a 29 años
+POB42,Poblacion femenina de 15 a 49 años
+POB43,Poblacion femenina de 15 a 64 años
+POB44,Poblacion femenina de 18 a 24 años
+POB45,Poblacion femenina de 30 a 49 años
+POB46,Poblacion femenina de 50 a 59 años
+POB47,Poblacion femenina de 60 a 64 años
+POB48,Poblacion femenina de 3 años y mas
+POB49,Poblacion femenina de 5 años y mas
+POB50,Poblacion femenina de 12 años y mas
+POB51,Poblacion femenina de 15 años y mas
+POB52,Poblacion femenina de 18 años y mas
+POB53,Poblacion femenina de 25 años y mas
+POB54,Poblacion femenina de 60 años y mas
+POB55,Poblacion femenina de 65 años y mas
+POB56,Poblacion femenina de 70 años y mas
+POB57,Poblacion masculina
+POB58,Poblacion masculina de 0 a 2 años
+POB59,Poblacion masculina de 0 a 4 años
+POB60,Poblacion masculina de 3 a 5 años
+POB61,Poblacion masculina de 6 a 11 años
+POB62,Poblacion masculina de 8 a 14 años
+POB63,Poblacion masculina de 12 a 14 años
+POB64,Poblacion masculina de 0 a 14 años
+POB65,Poblacion masculina de 15 a 17 años
+POB66,Poblacion masculina de 15 a 24 años
+POB67,Poblacion masculina de 15 a 29 años
+POB68,Poblacion masculina de 15 a 64 años
+POB69,Poblacion masculina de 18 a 24 años
+POB70,Poblacion masculina de 30 a 49 años
+POB71,Poblacion masculina de 50 a 59 años
+POB72,Poblacion masculina de 60 a 64 años
+POB73,Poblacion masculina de 3 años y mas
+POB74,Poblacion masculina de 5 años y mas
+POB75,Poblacion masculina de 12 años y mas
+POB76,Poblacion masculina de 15 años y mas
+POB77,Poblacion masculina de 18 años y mas
+POB78,Poblacion masculina de 25 años y mas
+POB79,Poblacion masculina de 60 años y mas
+POB80,Poblacion masculina de 65 años y mas
+POB81,Poblacion masculina de 70 años y mas
+EDU1,Poblacion de 3 a 5 años que asiste a la escuela
+EDU2,Poblacion femenina de 3 a 5 años que asiste a la escuela
+EDU3,Poblacion masculina de 3 a 5 años que asiste a la escuela
+EDU4,Poblacion de 3 a 5 años que no asiste a la escuela
+EDU5,Poblacion femenina de 3 a 5 años que no asiste a la escuela
+EDU6,Poblacion masculina de 3 a 5 años que no asiste a la escuela
+EDU7,Poblacion de 6 a 11 años que asiste a la escuela
+EDU8,Poblacion femenina de 6 a 11 años que asiste a la escuela
+EDU9,Poblacion masculina de 6 a 11 años que asiste a la escuela
+EDU10,Poblacion de 6 a 11 años que no asiste a la escuela
+EDU11,Poblacion femenina de 6 a 11 años que no asiste a la escuela
+EDU12,Poblacion masculina de 6 a 11 años que no asiste a la escuela
+EDU13,Poblacion de 12 a 14 años que asiste a la escuela
+EDU14,Poblacion femenina de 12 a 14 años que asiste a la escuela
+EDU15,Poblacion masculina de 12 a 14 años que asiste a la escuela
+EDU16,Poblacion de 12 a 14 años que no asiste a la escuela
+EDU17,Poblacion femenina de 12 a 14 años que no asiste a la escuela
+EDU18,Poblacion masculina de 12 a 14 años que no asiste a la escuela
+EDU19,Poblacion de 8 a 14 años que sabe leer y escribir
+EDU20,Poblacion femenina de 8 a 14 años que sabe leer y escribir
+EDU21,Poblacion masculina de 8 a 14 años que sabe leer y escribir
+EDU22,Poblacion de 8 a 14 años que no sabe leer y escribir
+EDU23,Poblacion femenina de 8 a 14 años que no sabe leer y escribir
+EDU24,Poblacion masculina de 8 a 14 años que no sabe leer y escribir
+EDU25,Poblacion de 15 años y mas alfabeta
+EDU26,Poblacion femenina  de 15 años y mas alfabeta
+EDU27,Poblacion masculina de 15 años y mas alfabeta
+EDU28,Poblacion de 15 años y mas analfabeta
+EDU29,Poblacion femenina de 15 años y mas analfabeta
+EDU30,Poblacion masculina de 15 años y mas analfabeta
+EDU31,Poblacion de 15 años y mas sin escolaridad
+EDU32,Poblacion femenina de 15 años y mas sin escolaridad
+EDU33,Poblacion masculina de 15 años y mas sin escolaridad
+EDU34,Poblacion de 15 años y mas con educacion basica incompleta
+EDU35,Poblacion femenina de 15 años y mas con educacion basica incompleta.
+EDU36,Poblacion masculina de 15 años y mas con educacion basica incompleta.
+EDU37,Poblacion de 15 años y mas con educacion basica completa.
+EDU38,Poblacion femenina de 15 años y mas con educacion basica completa.
+EDU39,Poblacion masculina de 15 años y mas con educacion basica completa.
+EDU40,Poblacion de 15 años y mas con educacion pos-basica.
+EDU41,Poblacion femenina de 15 años y mas con educacion pos-basica.
+EDU42,Poblacion masculina de 15 años y mas con educacion pos-basica.
+EDU43,Poblacion de 18 años y mas con al menos un grado aprobado en educacion media superior
+EDU44,Poblacion femenina de 18 años y mas con al menos un grado aprobado en educacion media superior
+EDU45,Poblacion masculina de 18 años y mas con al menos un grado aprobado en educacion media superior
+EDU46,Poblacion de 25 años y mas con al menos un grado aprobado en educacion superior
+EDU47,Poblacion femenina de 25 años y mas con al menos un grado aprobado en educacion superior
+EDU48,Poblacion masculina de 25 años y mas con al menos un grado aprobado en educacion superior
+ECO1,Poblacion economicamente activa
+ECO2,Poblacion femenina economicamente activa
+ECO3,Poblacion masculina economicamente activa
+ECO4,Poblacion ocupada
+ECO5,Poblacion femenina ocupada
+ECO6,Poblacion masculina ocupada
+ECO7,Poblacion ocupada de 12 años y mas sin escolaridad
+ECO8,Poblacion femenina ocupada de 12 años y mas sin escolaridad
+ECO9,Poblacion masculina ocupada de 12 años y mas sin escolaridad
+ECO10,Poblacion ocupada de 12 años y mas con al menos un grado aprobado en primaria
+ECO11,Poblacion femenina ocupada de 12 años y mas con al menos un grado aprobado en primaria
+ECO12,Poblacion masculina ocupada de 12 años y mas con al menos un grado aprobado en primaria
+ECO13,Poblacion ocupada de 12 años y mas con secundaria o equivalente incompleta
+ECO14,Poblacion femenina ocupada de 12 años y mas con secundaria o equivalente incompleta
+ECO15,Poblacion masculina ocupada de 12 años y mas con secundaria o equivalente incompleta
+ECO16,Poblacion ocupada de 12 años y mas con secundaria o equivalente completa
+ECO17,Poblacion femenina ocupada de 12 años y mas con secundaria o equivalente completa
+ECO18,Poblacion masculina ocupada de 12 años y mas con secundaria o equivalente completa
+ECO19,Poblacion ocupada de 12 años y mas con al menos un grado aprobado en educacion media superior
+ECO20,Poblacion femenina ocupada de 12 años y mas con al menos un grado aprobado en educacion media superior
+ECO21,Poblacion masculina ocupada de 12 años y mas con al menos un grado aprobado en educacion media superior
+ECO22,Poblacion ocupada de 12 años y mas con al menos un grado aprobado en educacion superior o posgrado
+ECO23,Poblacion femenina ocupada de 12 años y mas con al menos un grado aprobado en educacion superior o posgrado
+ECO24,Poblacion masculina ocupada de 12 años y mas con al menos un grado aprobado en educacion superior o posgrado
+ECO25,Poblacion desocupada
+ECO26,Poblacion femenina desocupada
+ECO27,Poblacion masculina desocupada
+ECO28,Poblacion no economicamente activa
+ECO29,Poblacion femenina no economicamente activa
+ECO30,Poblacion masculina no economicamente activa
+ECO31,Poblacion de 12 años y mas no economicamente activa pensionada (o) o jubilada (o)
+ECO32,Poblacion femenina de 12 años y mas no economicamente activa pensionada o jubilada
+ECO33,Poblacion masculina de 12 años y mas no economicamente activa pensionado o jubilado
+ECO34,Poblacion de 12 años y mas no economicamente activa que se dedica a estudiar
+ECO35,Poblacion femenina de 12 años y mas no economicamente activa que se dedica a estudiar
+ECO36,Poblacion masculina de 12 años y mas no economicamente activa que se dedica a estudiar
+ECO37,Poblacion de 12 años y mas no economicamente activa que se dedica a los quehaceres del hogar
+ECO38,Poblacion femenina de 12 años y mas no economicamente activa que se dedica a los quehaceres del hogar
+ECO39,Poblacion masculina de 12 años y mas no economicamente activa que se dedica a los quehaceres del hogar
+ECO40,Poblacion de 12 años y mas no economicamente activa que tiene alguna limitacion fÝsica o mental permanente que le impide trabajar
+ECO41,Poblacion femenina de 12 años y mas no economicamente activa que tiene alguna limitacion fÝsica o mental permanente que le impide trabajar
+ECO42,Poblacion masculina de 12 años y mas no economicamente activa que tiene alguna limitacion fÝsica o mental permanente que le impide trabajar
+ECO43,Poblacion de 12 años y mas no economicamente activa que tiene otra razon que le impide trabajar
+ECO44,Poblacion femenina de 12 años y mas no economicamente activa que tiene otra razon que le impide trabajar
+ECO45,Poblacion masculina de 12 años y mas no economicamente activa que tiene otra razon que le impide trabajar
+SALUD1,Poblacion derechohabiente a servicios de salud
+SALUD2,Poblacion sin derechohabiencia a servicios de salud
+SALUD3,Poblacion derechohabiente del IMSS
+SALUD4,Poblacion derechohabiente del ISSSTE o ISSSTE estatal
+SALUD5,Poblacion derechohabiente del Seguro Popular o Seguro MÚdico para una Nueva Generacion
+SALUD6,"Poblacion derechohabiente de Pemex, Sedena o Semar"
+HOGAR1,Total de hogares censales
+HOGAR2,Hogares censales con jefatura femenina
+HOGAR3,Hogares censales con jefatura masculina
+HOGAR4,Poblacion en hogares censales
+HOGAR5,Poblacion en hogares censales con jefatura femenina
+HOGAR6,Poblacion en hogares censales con jefatura masculina
+HOGAR7,Hogares censales con jefa (e) menor de 30 años
+HOGAR8,Hogares censales con jefa menor de 30 años
+HOGAR9,Hogares censales con jefe menor de 30 años
+HOGAR10,Poblacion en hogares censales con jefa (e) menor de 30 años
+HOGAR11,Poblacion en hogares censales con  jefa menor de 30 años
+HOGAR12,Poblacion en hogares censales con  jefe menor de 30 años
+HOGAR13,Hogares censales con jefa (e) de 30 a 59 años
+HOGAR14,Hogares censales con jefa de 30 a 59 años
+HOGAR15,Hogares censales con jefe de 30 a 59 años
+HOGAR16,Poblacion en hogares censales con jefa (e) de 30 a 59 años
+HOGAR17,Poblacion en hogares censales con  jefa de 30 a 59 años
+HOGAR18,Poblacion en hogares censales con  jefe de 30 a 59 años
+HOGAR19,Hogares censales con jefa (e) de 60 años y mas
+HOGAR20,Hogares censales con jefa de 60 años y mas
+HOGAR21,Hogares censales con jefe de 60 años y mas
+HOGAR22,Poblacion en hogares censales con jefa (e) de 60 años y mas
+HOGAR23,Poblacion en hogares censales con  jefa de 60 años y mas
+HOGAR24,Poblacion en hogares censales con  jefe de 60 años y mas
+HOGAR25,Hogares censales nucleares conformados por la jefa con hijos menores de 18 años
+HOGAR26,Poblacion en hogares censales nucleares conformados por la jefa con hijos menores de 18 años
+VIV0,Total de viviendas
+VIV1,Total de viviendas habitadas
+VIV2,Viviendas particulares habitadas
+VIV3,Ocupantes en viviendas particulares
+VIV6,Viviendas particulares habitadas con piso de tierra
+VIV7,Viviendas particulares habitadas con un dormitorio
+VIV8,Viviendas particulares habitadas con dos dormitorios y mas
+VIV9,Viviendas particulares habitadas con mas de 2.5 ocupantes por dormitorio
+VIV10,Viviendas particulares habitadas con un solo cuarto
+VIV11,Viviendas particulares habitadas con dos cuartos
+VIV12,Viviendas particulares habitadas con 3 cuartos y mas
+VIV13,Viviendas particulares con mas de 3 ocupantes por cuarto
+VIV14,Viviendas particulares habitadas que disponen de luz elÚctrica
+VIV15,Viviendas particulares habitadas que no disponen de luz elÚctrica
+VIV16,Viviendas particulares habitadas que disponen de agua entubada en el ambito de la vivienda
+VIV17,Viviendas particulares habitadas que no disponen de agua entubada en el ambito de la vivienda
+VIV18,Ocupantes en viviendas particulares  con acceso a agua entubada en el ambito de la vivienda
+VIV19,Viviendas particulares habitadas que disponen de excusado o sanitario
+VIV20,Viviendas particulares habitadas que no disponen de excusado o sanitario
+VIV21,Ocupantes en viviendas particulares que disponen de excusado con admision de agua y drenaje
+VIV22,Viviendas particulares habitadas que disponen de drenaje
+VIV23,Viviendas particulares habitadas que no disponen de drenaje
+VIV24,"Viviendas particulares habitadas que disponen de luz elÚctrica, agua entubada en el ambito de la vivienda y drenaje"
+VIV25,"Viviendas particulares habitadas que no disponen de luz elÚctrica, agua entubada en el ambito de la vivienda, ni drenaje"
+VIV26,Viviendas particulares habitadas que disponen de refrigerador
+VIV27,Viviendas particulares habitadas que disponen de lavadora
+VIV28,Viviendas particulares habitadas que disponen de automovil o camioneta
+VIV29,Viviendas particulares habitadas que no disponen de refrigerador ni lavadora
+VIV30,"Viviendas particulares habitadas que no disponen de refrigerador, lavadora ni automovil o camioneta"
+VIV31,Viviendas particulares habitadas que disponen de radio
+VIV32,Viviendas particulares habitadas que disponen de televisor
+VIV33,Viviendas particulares habitadas que disponen de computadora
+VIV34,Viviendas particulares habitadas que disponen de lÝnea telefonica fija
+VIV35,Viviendas particulares habitadas que disponen de telÚfono celular
+VIV36,Viviendas particulares habitadas que disponen de internet
+VIV37,Viviendas particulares habitadas sin radio ni televisor
+VIV38,Viviendas particulares habitadas sin lÝnea telefonica ni telÚfono celular
+VIV39,Viviendas particulares habitadas sin computadora ni Internet
+VIV40,Viviendas particulares habitadas sin tecnologÝas de la informacion y la comunicacion (TIC)
+VIV41,Viviendas particulares habitadas sin ning·n bien
